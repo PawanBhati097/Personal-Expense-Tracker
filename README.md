@@ -1,0 +1,1 @@
+This Personal Expense Tracker is a Python-based application that allows users to track their daily expenses. It features the ability to add expenses, view summaries by category and date, and store the data in a CSV file for future use.
